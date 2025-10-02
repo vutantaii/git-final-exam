@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+- Tôi tên là Tài.
+- Tôi là sinh viên năm 4.
+- Tôi yêu thích công nghệ và lập trình.
+- Tôi thích học hỏi và thử thách bản thân.
+- Tôi mong muốn phát triển kỹ năng Git.
+
+Sở thích:
+- Đọc sách.
+- Chơi thể thao.
+- Nghe nhạc.
+
+Kỹ năng:
+- Lập trình Python.
+- Quản lý dự án.
+- Làm việc nhóm.
