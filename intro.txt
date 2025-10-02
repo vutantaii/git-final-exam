@@ -14,3 +14,10 @@ Kỹ năng:
 - Lập trình Python.
 - Quản lý dự án.
 - Làm việc nhóm.
+
+Kế hoạch học tập:
+- Học kỹ hơn về Git và GitHub.
+- Tham gia các dự án nhóm để nâng cao kỹ năng làm việc nhóm.
+- Thực hành viết code mỗi ngày.
+- Tìm hiểu thêm về CI/CD và DevOps.
+- Nâng cao kiến thức về thuật toán và cấu trúc dữ liệu.
