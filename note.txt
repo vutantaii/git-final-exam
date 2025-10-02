@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản rất hiệu quả.
 - Dễ dàng quay lại các phiên bản trước.
 - Hỗ trợ làm việc nhóm cực kỳ tốt.
-- Có thể kết hợp với GitHub để làm dự án online.
-- Tuy nhiên, ban đầu hơi khó tiếp cận với người mới.
