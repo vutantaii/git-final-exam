@@ -1,0 +1,5 @@
+Tính năng: Tự động nhắc nhở học tập mỗi ngày.
+- Gửi thông báo qua email vào 8h sáng.
+- Theo dõi tiến độ hoàn thành từng mục.
+- Hiển thị biểu đồ học tập cuối tuần.
+- Cho phép người dùng ghi chú và đánh giá.
